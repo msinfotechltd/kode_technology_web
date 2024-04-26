@@ -4492,3 +4492,7 @@ blockquote::after, .blockquote::after {
 .copyright-area ul li:first-child {
 	margin-left: 0;
 }
+
+.is-sticky #logo-title {
+	color: #023047 !important;
+}
